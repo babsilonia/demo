@@ -1,9 +1,9 @@
-{[
+[
   {
-    'Name' : 'Olufowobi Samuel Babs', 'Matric_No':'130404031','School':'Science', 'Dept':'Mathematics', 'Blood_Group':'Ab+', 'Programme': 'Computer', 'Subject':'Computer', 'Level': 'Three', 'Holdersign':'http://colorvisiontesting.com/images/plate%20with%205.jpg', 'NextofKin':'Olufowobi Tosin', 'NextofKinAddr':'Bodija off Ilara Sonita Street Akure', 'Profilepix':'http://colorvisiontesting.com/images/plate%20with%205.jpg'
+    "Name" : "Olufowobi Samuel Babs", "Matric_No":"130404031","School":"Science", "Dept":"Mathematics", "Blood_Group":"Ab+", "Programme": "Computer", "Subject":"Computer", "Level": "Three", "Holdersign":"http://colorvisiontesting.com/images/plate%20with%205.jpg", "NextofKin":"Olufowobi Tosin", "NextofKinAddr":"Bodija off Ilara Sonita Street Akure", "Profilepix":"http://colorvisiontesting.com/images/plate%20with%205.jpg"
   },
   {
-    'Name' : 'Adepoju Seun', 'Matric_No':'130404025','School':'Science', 'Dept':'Chemistry', 'Blood_Group':'O+', 'Programme': 'Chemistry', 'Subject':'Chemistry', 'Level': 'Five', 'Holdersign':'http://colorvisiontesting.com/images/plate%20with%205.jpg', 'NextofKin':'http://colorvisiontesting.com/images/plate%20with%205.jpg', 'NextofKinAddr':'Adepoju Nce', 'Profilepix':'http://colorvisiontesting.com/images/plate%20with%205.jpg'
+    "Name" : "Adepoju Seun", "Matric_No":"130404025","School":"Science", "Dept":"Chemistry", "Blood_Group":"O+", "Programme": "Chemistry", "Subject":"Chemistry", "Level": "Five", "Holdersign":"http://colorvisiontesting.com/images/plate%20with%205.jpg", "NextofKin":"http://colorvisiontesting.com/images/plate%20with%205.jpg", "NextofKinAddr":"Adepoju Nce", "Profilepix":"http://colorvisiontesting.com/images/plate%20with%205.jpg"
   }
 ]
-}
+
